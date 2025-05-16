@@ -31,13 +31,7 @@
 
 ---
 
-## 📸 Screenshots
 
-| Home Dashboard | Card Review Mode |
-|----------------|------------------|
-| ![Deck View](./screenshots/home.png) | ![Review UI](./screenshots/review.png) |
-
----
 
 ## 🧠 How Spaced Repetition Works
 
